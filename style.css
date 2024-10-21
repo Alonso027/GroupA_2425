@@ -12,3 +12,11 @@
     line-height: 50px;
     text-align: center;
 }
+#Git{
+    background-color: purple;
+    float:left;
+}
+#GitHub{
+    background-color: peru;
+    float:right;
+}
