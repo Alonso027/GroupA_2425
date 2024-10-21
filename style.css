@@ -1,3 +1,8 @@
+p{
+    background-color: red;
+    color: green;
+    font: bold;
+}
 *{
     margin:0;
     padding:0;
