@@ -19,9 +19,19 @@ p{
 }
 #Git{
     background-color: purple;
-    float:left;
+    float:inline-start;
+    min-height: 50px;
+    width: 20%;
+}
+h1{
+    float:inline-start;
+    min-height: 50px;
+    width: 40%;
+    margin-left: 10%;
 }
 #GitHub{
     background-color: peru;
-    float:right;
+    float:inline-end;
+    min-height: 50px;
+    width: 20%;
 }
