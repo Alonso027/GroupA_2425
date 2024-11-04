@@ -17,3 +17,11 @@ p{
     color: green;
     font: bold;
 }
+#Git{
+    background-color: purple;
+    float:left;
+}
+#GitHub{
+    background-color: peru;
+    float:right;
+}
